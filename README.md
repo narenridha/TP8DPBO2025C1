@@ -1,7 +1,5 @@
+Saya Narendra Ridha Baihaqi dengan NIM 2308882 mengerjakan TP8 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # TP8DPBO2025C1
-
-Berikut adalah penjelasan alur program untuk tugas desain pemrograman berbasis objek dengan pola **MVC (Model-View-Controller)** yang kamu gunakan di proyek GitHub, berdasarkan database `student_management` dan sistem CRUD, di mana proses **update** hanya mengubah status pada entitas tertentu.
-
 ---
 
 ### **Struktur MVC**
